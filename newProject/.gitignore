@@ -1,6 +1,6 @@
 *.iml
-
-*.iml
+*.xml
 target/*
 .idea/*
 out/*
+.gitignore
